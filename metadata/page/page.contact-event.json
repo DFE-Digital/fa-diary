@@ -1,0 +1,20 @@
+{
+  "_id": "page.contact-event",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.contact-event--textarea.auto_name__8",
+      "_type": "textarea",
+      "hint": "Contact - with the child’s family/others, how was the child, how was the family/others, when they did not turn up and any reason given; Dates when the child is away from the foster home – with family, friends, school trips, introductions to new carers; Details of times when the child is with other carers such as babysitters and who they were;",
+      "label": "Tell us about any contacts the child has had with other people",
+      "name": "auto_name__8"
+    }
+  ],
+  "enableSteps": false,
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "defined"
+  },
+  "url": "contact-event"
+}

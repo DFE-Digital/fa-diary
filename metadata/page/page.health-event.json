@@ -1,0 +1,18 @@
+{
+  "_id": "page.health-event",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.health-event--textarea.auto_name__7",
+      "_type": "textarea",
+      "hint": "Dates of medical or dental appointments and treatment given. Include dates of cancelled or rearranged appointments; Dates and types of immunization; Date, type and length of any illnesses; Details of any accidents or injuries, however slight. Name any witnesses and action taken. Record the time, date and name of the social worker to whom the incident was reported;",
+      "label": "Tell us about a health-related event",
+      "name": "auto_name__7"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "defined"
+  },
+  "url": "health-event"
+}

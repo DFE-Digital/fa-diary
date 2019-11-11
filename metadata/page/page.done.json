@@ -1,0 +1,7 @@
+{
+  "_id": "page.done",
+  "_type": "page.confirmation",
+  "heading": "Thank you for your information",
+  "lede": "Your report has been shared with your fostering agency",
+  "url": "done"
+}

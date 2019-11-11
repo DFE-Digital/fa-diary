@@ -1,0 +1,19 @@
+{
+  "_id": "page.relationship-observations",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.relationship-observations--textarea.auto_name__9",
+      "_type": "textarea",
+      "hint": "How well does the child form relationships with other people?",
+      "label": "Relationship observations",
+      "name": "auto_name__9"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__3",
+    "operator": "defined"
+  },
+  "url": "relationship-observations"
+}
