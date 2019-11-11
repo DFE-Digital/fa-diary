@@ -1,0 +1,7 @@
+{
+  "_id": "page.confirm--2",
+  "_type": "page.summary",
+  "actionType": "send.email",
+  "lede": "If you're happy with your answers, press the button at the bottom to send an email",
+  "url": "confirm"
+}
