@@ -37,5 +37,11 @@
     "identifier": "auto_name__3",
     "operator": "defined"
   },
+  "enableSteps": true,
+  "steps": [
+    "page.linear-behaviour-detail",
+    "page.linear-behaviour-things",
+    "page.linera--2"
+  ],
   "url": "linear-behaviour"
 }

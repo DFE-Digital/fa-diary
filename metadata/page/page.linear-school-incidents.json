@@ -31,6 +31,10 @@
     }
   ],
   "heading": "School - incidents or problems",
-  "show": true,
+  "show": {
+    "identifier": "auto_name__24",
+    "operator": "is",
+    "value": "auto_value__5"
+  },
   "url": "linear-school-incidents"
 }

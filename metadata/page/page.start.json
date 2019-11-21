@@ -4,6 +4,8 @@
   "actionType": "saveContinue",
   "heading": "Foster Parent Daily Diary",
   "lede": "You can use this tool to share your notes about the child you're caring for ",
-  "steps": [],
+  "steps": [
+    "page.choose-flow"
+  ],
   "url": "/"
 }

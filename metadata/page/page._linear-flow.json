@@ -32,17 +32,14 @@
     }
   ],
   "enableSteps": true,
+  "show": {
+    "identifier": "auto_name__31",
+    "operator": "is",
+    "value": "auto_value__6"
+  },
   "showSteps": true,
   "steps": [
-    "page.linear-event-type",
-    "page.linear-achievements",
-    "page.linear-behaviour",
-    "page.linear-behaviour-detail",
-    "page.linear-behaviour-things",
-    "page.linera--2",
-    "page.linear-school",
-    "page.linear-school-progress",
-    "page.linear-school-incidents"
-  ],
+    "page.linear-event-type"
+   ],
   "url": "/linear-flow"
 }

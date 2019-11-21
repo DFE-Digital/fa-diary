@@ -17,6 +17,10 @@
     }
   ],
   "heading": "School - progress and achievements",
-  "show": true,
+  "show": {
+    "identifier": "auto_name__24",
+    "operator": "is",
+    "value": "auto_value__4"
+  },
   "url": "linear-school-progress"
 }

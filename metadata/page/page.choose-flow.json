@@ -1,0 +1,39 @@
+{
+  "_id": "page.choose-flow",
+  "_type": "page.singlequestion",
+  "actionType": "continue",
+  "components": [
+    {
+      "_id": "page.choose-flow--radios.auto_name__31",
+      "_type": "radios",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.choose-flow--radios.auto_name__31--radio.auto_value__6",
+          "_type": "radio",
+          "label": "A - Linear Flow",
+          "value": "auto_value__6"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.choose-flow--radios.auto_name__31--radio.auto_value__7",
+          "_type": "radio",
+          "label": "B - all on one page",
+          "value": "auto_value__7"
+        }
+      ],
+      "legend": "Select a prototype",
+      "name": "auto_name__31"
+    }
+  ],
+  "enableSteps": true,
+  "steps": [
+    "page._linear-flow",
+    "page.nonlinear"
+  ],
+  "url": "choose-flow"
+}

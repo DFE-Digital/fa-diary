@@ -85,5 +85,11 @@
       }
     }
   ],
+  "enableSteps": true,
+  "steps": [
+    "page.linear-achievements",
+    "page.linear-behaviour",
+    "page.linear-school"
+  ],
   "url": "linear-event-type"
 }

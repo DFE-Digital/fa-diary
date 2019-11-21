@@ -32,5 +32,10 @@
     "identifier": "auto_name__4",
     "operator": "defined"
   },
+  "enableSteps": true,
+  "steps": [
+    "page.linear-school-incidents",
+    "page.linear-school-progress"
+  ],
   "url": "linear-school"
 }
