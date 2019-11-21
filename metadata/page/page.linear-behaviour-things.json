@@ -1,0 +1,19 @@
+{
+  "_id": "page.linear-behaviour-things",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-behaviour-things--textarea.auto_name__19",
+      "_type": "textarea",
+      "hint": "Thinking of an example, can you describe.\r\n\r\n* What happened?\r\n* Did anything come before it?\r\n* What did Paul say or do?",
+      "label": "Behaviour and mood - things that help",
+      "name": "auto_name__19"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__14",
+    "operator": "defined"
+  },
+  "url": "linear-behaviour-things"
+}

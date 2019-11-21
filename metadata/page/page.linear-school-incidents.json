@@ -1,0 +1,36 @@
+{
+  "_id": "page.linear-school-incidents",
+  "_type": "page.form",
+  "actionType": "saveContinue",
+  "body": "",
+  "components": [
+    {
+      "_id": "page.linear-school-incidents--textarea.auto_name__28",
+      "_type": "textarea",
+      "label": "Describe the incident or problem to do with Paul's school.",
+      "name": "auto_name__28"
+    },
+    {
+      "_id": "page.linear-school-incidents--textarea.auto_name__27",
+      "_type": "textarea",
+      "hint": "If yes, what did they say?",
+      "label": "Have you contacted the school?",
+      "name": "auto_name__27"
+    },
+    {
+      "_id": "page.linear-school-incidents--textarea.auto_name__29",
+      "_type": "textarea",
+      "label": "What does Paul think about the incident or problem?",
+      "name": "auto_name__29"
+    },
+    {
+      "_id": "page.linear-school-incidents--textarea.auto_name__30",
+      "_type": "textarea",
+      "label": "What happens next?",
+      "name": "auto_name__30"
+    }
+  ],
+  "heading": "School - incidents or problems",
+  "show": true,
+  "url": "linear-school-incidents"
+}

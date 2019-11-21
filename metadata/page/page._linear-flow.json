@@ -1,0 +1,48 @@
+{
+  "_id": "page._linear-flow",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page._linear-flow--radios.auto_name__1",
+      "_type": "radios",
+      "hint": "Who do you want to make a note about?",
+      "items": [
+        {
+          "_id": "page._linear-flow--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Paul",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page._linear-flow--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Sarah",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page._linear-flow--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Myself (the foster parent)",
+          "value": "auto_value__3"
+        }
+      ],
+      "legend": "Make a note",
+      "name": "auto_name__1"
+    }
+  ],
+  "enableSteps": true,
+  "showSteps": true,
+  "steps": [
+    "page.linear-event-type",
+    "page.linear-achievements",
+    "page.linear-behaviour",
+    "page.linear-behaviour-detail",
+    "page.linear-behaviour-things",
+    "page.linera--2",
+    "page.linear-school",
+    "page.linear-school-progress",
+    "page.linear-school-incidents"
+  ],
+  "url": "/linear-flow"
+}

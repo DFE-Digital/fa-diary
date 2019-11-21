@@ -1,0 +1,89 @@
+{
+  "_id": "page.linear-event-type",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-event-type--checkboxes",
+      "_type": "checkboxes",
+      "hint": "What would you like to make a note about?",
+      "items": [
+        {
+          "_id": "page.linear-event-type--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "hint": "things to celebrate; milestones",
+          "label": "achievements and memories",
+          "name": "auto_name__2"
+        },
+        {
+          "_id": "page.linear-event-type--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "hint": "positives and improvements; things that help; things I’m worried about or need help with",
+          "label": "behaviour and mood",
+          "name": "auto_name__3"
+        },
+        {
+          "_id": "page.linear-event-type--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "hint": "progress and achievements; concerns; incidents; visits",
+          "label": "school",
+          "name": "auto_name__4"
+        },
+        {
+          "_id": "page.linear-event-type--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "hint": "accidents; illnesses; appointments",
+          "label": "health",
+          "name": "auto_name__5"
+        },
+        {
+          "_id": "page.linear-event-type--checkboxes--checkbox.auto_name__6",
+          "_type": "checkbox",
+          "hint": "what’s going well; concerns",
+          "label": "friends",
+          "name": "auto_name__6"
+        },
+        {
+          "_id": "page.linear-event-type--checkboxes--checkbox.auto_name__7",
+          "_type": "checkbox",
+          "hint": "relationships; what’s going well; concerns",
+          "label": "foster family",
+          "name": "auto_name__7"
+        },
+        {
+          "_id": "page.linear-event-type--checkboxes--checkbox.auto_name__8",
+          "_type": "checkbox",
+          "hint": "contact; what’s going well; concerns",
+          "label": "birth family",
+          "name": "auto_name__8"
+        },
+        {
+          "_id": "page.linear-event-type--checkboxes--checkbox.auto_name__9",
+          "_type": "checkbox",
+          "hint": "meetings with social worker or other social care professionals",
+          "label": "social care professionals",
+          "name": "auto_name__9"
+        },
+        {
+          "_id": "page.linear-event-type--checkboxes--checkbox.auto_name__10",
+          "_type": "checkbox",
+          "hint": "going missing; getting into trouble; other problems",
+          "label": "serious incident",
+          "name": "auto_name__10"
+        },
+        {
+          "_id": "page.linear-event-type--checkboxes--checkbox.auto_name__11",
+          "_type": "checkbox",
+          "hint": "anything else you’d like to make a note about",
+          "label": "other",
+          "name": "auto_name__11"
+        }
+      ],
+      "legend": "Make a note about Paul",
+      "validation": {
+        "required": true
+      }
+    }
+  ],
+  "url": "linear-event-type"
+}

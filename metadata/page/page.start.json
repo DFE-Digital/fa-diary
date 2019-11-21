@@ -1,17 +1,9 @@
 {
   "_id": "page.start",
   "_type": "page.start",
+  "actionType": "saveContinue",
   "heading": "Foster Parent Daily Diary",
   "lede": "You can use this tool to share your notes about the child you're caring for ",
-  "steps": [
-    "page.daily-entry",
-    "page.health-event",
-    "page.contact-event",
-    "page.relationship-observations",
-    "page.education-observations",
-    "page.other",
-    "page.confirm--2",
-    "page.done"
-  ],
+  "steps": [],
   "url": "/"
 }

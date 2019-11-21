@@ -1,0 +1,37 @@
+{
+  "_id": "page.linera--2",
+  "_type": "page.form",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linera--2--textarea.auto_name__20",
+      "_type": "textarea",
+      "label": "What is worrying you about Paul’s behaviour?",
+      "name": "auto_name__20"
+    },
+    {
+      "_id": "page.linera--2--textarea.auto_name__21",
+      "_type": "textarea",
+      "label": "Can you describe a time when this happened?",
+      "name": "auto_name__21"
+    },
+    {
+      "_id": "page.linera--2--textarea.auto_name__22",
+      "_type": "textarea",
+      "label": "What came first? Were there any triggers?",
+      "name": "auto_name__22"
+    },
+    {
+      "_id": "page.linera--2--textarea.auto_name__23",
+      "_type": "textarea",
+      "label": "What help do you or Paul need?",
+      "name": "auto_name__23"
+    }
+  ],
+  "heading": "Behaviour and mood - things I’m worried about or need help with",
+  "show": {
+    "identifier": "auto_name__15",
+    "operator": "defined"
+  },
+  "url": "linear-behaviour-things-detail"
+}

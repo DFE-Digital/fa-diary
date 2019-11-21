@@ -1,0 +1,31 @@
+{
+  "_id": "page.linear-behaviour-detail",
+  "_type": "page.form",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-behaviour-detail--textarea.auto_name__16",
+      "_type": "textarea",
+      "label": "What is improving or going well?",
+      "name": "auto_name__16"
+    },
+    {
+      "_id": "page.linear-behaviour-detail--textarea.auto_name__17",
+      "_type": "textarea",
+      "label": "Why do you think this is happening?",
+      "name": "auto_name__17"
+    },
+    {
+      "_id": "page.linear-behaviour-detail--textarea.auto_name__18",
+      "_type": "textarea",
+      "label": "How does Paul feel about this?",
+      "name": "auto_name__18"
+    }
+  ],
+  "heading": "Behaviour and mood - improvements and what's going well",
+  "show": {
+    "identifier": "auto_name__13",
+    "operator": "defined"
+  },
+  "url": "linear-behaviour-detail"
+}

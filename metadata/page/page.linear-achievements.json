@@ -1,0 +1,19 @@
+{
+  "_id": "page.linear-achievements",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-achievements--textarea.auto_name__12",
+      "_type": "textarea",
+      "hint": "Tell us about:\r\n\r\n* an achievement you would like to celebrate\r\n* something you think your foster child would like to keep as a memory",
+      "label": "Achievements and memories",
+      "name": "auto_name__12",
+      "show": {
+        "identifier": "auto_name__2",
+        "operator": "defined"
+      }
+    }
+  ],
+  "url": "linear-achievements"
+}
