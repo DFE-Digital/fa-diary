@@ -89,7 +89,9 @@
   "steps": [
     "page.linear-achievements",
     "page.linear-behaviour",
-    "page.linear-school"
+    "page.linear-school",
+    "page.linear-health",
+    "page.linear-friends"
   ],
   "url": "linear-event-type"
 }
