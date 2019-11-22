@@ -1,0 +1,19 @@
+{
+  "_id": "page.linear-other",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-other--textarea.auto_name__50",
+      "_type": "textarea",
+      "hint": "This is a prototype. Work in progress.",
+      "label": "Other",
+      "name": "auto_name__50"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__11",
+    "operator": "defined"
+  },
+  "url": "linear-other"
+}

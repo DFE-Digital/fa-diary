@@ -1,0 +1,19 @@
+{
+  "_id": "page.linear-foster-family",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-foster-family--textarea.auto_name__46",
+      "_type": "textarea",
+      "hint": "This is a prototype. Work in progress.",
+      "label": "Foster family",
+      "name": "auto_name__46"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__7",
+    "operator": "defined"
+  },
+  "url": "linear-foster-family"
+}

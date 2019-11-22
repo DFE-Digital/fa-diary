@@ -1,0 +1,15 @@
+{
+  "_id": "page.linear-birth-family",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-birth-family--textarea.auto_name__47",
+      "_type": "textarea",
+      "hint": "This is a prototype. Work in progress.",
+      "label": "Birth family",
+      "name": "auto_name__47"
+    }
+  ],
+  "url": "linear-birth-family"
+}

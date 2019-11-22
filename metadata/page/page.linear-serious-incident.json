@@ -1,0 +1,19 @@
+{
+  "_id": "page.linear-serious-incident",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-serious-incident--textarea.auto_name__49",
+      "_type": "textarea",
+      "hint": "This is a prototype. Work in progress.",
+      "label": "Serious incident",
+      "name": "auto_name__49"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__10",
+    "operator": "defined"
+  },
+  "url": "linear-serious-incident"
+}

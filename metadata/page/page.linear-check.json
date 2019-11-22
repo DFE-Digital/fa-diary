@@ -1,0 +1,10 @@
+{
+  "_id": "page.linear-check",
+  "_type": "page.summary",
+  "actionType": "continue",
+  "body": "Here you can check your answers before submitting.",
+  "heading": "Check your answers",
+  "sendBody": "By submitting these notes you confirm that, to the best of your knowledge, the details you are providing are correct.",
+  "sendHeading": "Now send your notes",
+  "url": "linear-check"
+}

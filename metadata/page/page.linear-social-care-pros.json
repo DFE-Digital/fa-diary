@@ -1,0 +1,19 @@
+{
+  "_id": "page.linear-social-care-pros",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-social-care-pros--textarea.auto_name__48",
+      "_type": "textarea",
+      "hint": "This is a prototype. Work in progress.",
+      "label": "Social care professionals",
+      "name": "auto_name__48"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__9",
+    "operator": "defined"
+  },
+  "url": "linear-social-care-pros"
+}

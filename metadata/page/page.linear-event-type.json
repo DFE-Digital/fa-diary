@@ -91,7 +91,14 @@
     "page.linear-behaviour",
     "page.linear-school",
     "page.linear-health",
-    "page.linear-friends"
+    "page.linear-friends",
+    "page.linear-foster-family",
+    "page.linear-birth-family",
+    "page.linear-social-care-pros",
+    "page.linear-serious-incident",
+    "page.linear-other",
+    "page.linear-check",
+    "page.linear-done"
   ],
   "url": "linear-event-type"
 }
