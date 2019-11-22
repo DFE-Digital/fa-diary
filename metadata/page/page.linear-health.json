@@ -1,0 +1,19 @@
+{
+  "_id": "page.linear-health",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-health--textarea.auto_name__32",
+      "_type": "textarea",
+      "hint": "Make a note about Paul’s health. This might include information on:\r\n\r\n* illnesses\r\n* accidents\r\n* visits to the GP or hospital\r\n* appointments with a health professional, like a speech\r\ntherapist or education psychologist\r\n* what happens next",
+      "label": "Health",
+      "name": "auto_name__32"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "defined"
+  },
+  "url": "linear-health"
+}

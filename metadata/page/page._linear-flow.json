@@ -39,7 +39,8 @@
   },
   "showSteps": true,
   "steps": [
-    "page.linear-event-type"
-   ],
+    "page.linear-event-type",
+    "page.linear-health"
+  ],
   "url": "/linear-flow"
 }
