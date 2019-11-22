@@ -1,0 +1,15 @@
+{
+  "_id": "page.nonlinear-who",
+  "_type": "page.form",
+  "enableSteps": true,
+  "heading": "Make a note about a person",
+  "show": {
+    "identifier": "auto_name__31",
+    "operator": "is",
+    "value": "auto_value__7"
+  },
+  "steps": [
+    "page.nonlinear-note"
+  ],
+  "url": "nonlinear-who"
+}

@@ -33,7 +33,7 @@
   "enableSteps": true,
   "steps": [
     "page._linear-flow",
-    "page.nonlinear"
+    "page.nonlinear-who"
   ],
   "url": "choose-flow"
 }

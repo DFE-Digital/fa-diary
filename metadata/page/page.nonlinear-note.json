@@ -1,0 +1,89 @@
+{
+  "_id": "page.nonlinear-note",
+  "_type": "page.form",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.nonlinear-note--date.auto_name__51",
+      "_type": "date",
+      "label": "On this date",
+      "name": "auto_name__51"
+    },
+    {
+      "_id": "page.nonlinear-note--radios.auto_name__52",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4",
+          "_type": "radio",
+          "label": "James' home",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4--2",
+          "_type": "radio",
+          "label": "School",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4--3",
+          "_type": "radio",
+          "label": "After school care",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4--4",
+          "_type": "radio",
+          "label": "Missing",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4--5",
+          "_type": "radio",
+          "label": "Swimming pool",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4--6",
+          "_type": "radio",
+          "label": "Steven's (friend) house",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "At the following location",
+      "name": "auto_name__52"
+    },
+    {
+      "_id": "page.nonlinear-note--textarea.auto_name__53",
+      "_type": "textarea",
+      "label": "Factual description",
+      "name": "auto_name__53"
+    },
+    {
+      "_id": "page.nonlinear-note--textarea.auto_name__54",
+      "_type": "textarea",
+      "label": "Did anything come before?",
+      "name": "auto_name__54"
+    },
+    {
+      "_id": "page.nonlinear-note--textarea.auto_name__55",
+      "_type": "textarea",
+      "label": "What did they say?",
+      "name": "auto_name__55"
+    },
+    {
+      "_id": "page.nonlinear-note--textarea.auto_name__56",
+      "_type": "textarea",
+      "label": "What will you do next?",
+      "name": "auto_name__56"
+    },
+    {
+      "_id": "page.nonlinear-note--textarea.auto_name__57",
+      "_type": "textarea",
+      "label": "What help do you need?",
+      "name": "auto_name__57"
+    }
+  ],
+  "heading": "Make a note about Sarah",
+  "url": "nonlinear-note"
+}
