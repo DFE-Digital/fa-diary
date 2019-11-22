@@ -4,16 +4,56 @@
   "actionType": "saveContinue",
   "components": [
     {
-      "_id": "page.linear-health--textarea.auto_name__32",
-      "_type": "textarea",
-      "hint": "Make a note about Paul’s health. This might include information on:\r\n\r\n* illnesses\r\n* accidents\r\n* visits to the GP or hospital\r\n* appointments with a health professional, like a speech\r\ntherapist or education psychologist\r\n* what happens next",
-      "label": "Health",
-      "name": "auto_name__32"
+      "_id": "page.linear-health--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Make a note about Paul's health. This might include information on:",
+      "items": [
+        {
+          "_id": "page.linear-health--checkboxes--checkbox.auto_name__32",
+          "_type": "checkbox",
+          "label": "illnesses",
+          "name": "auto_name__32"
+        },
+        {
+          "_id": "page.linear-health--checkboxes--checkbox.auto_name__37",
+          "_type": "checkbox",
+          "label": "accidents",
+          "name": "auto_name__37"
+        },
+        {
+          "_id": "page.linear-health--checkboxes--checkbox.auto_name__38",
+          "_type": "checkbox",
+          "label": "visits to the GP or hospital",
+          "name": "auto_name__38"
+        },
+        {
+          "_id": "page.linear-health--checkboxes--checkbox.auto_name__39",
+          "_type": "checkbox",
+          "label": "appointments with a health professional, like a speech therapist or education psychologist",
+          "name": "auto_name__39"
+        },
+        {
+          "_id": "page.linear-health--checkboxes--checkbox.auto_name__40",
+          "_type": "checkbox",
+          "label": "what happens next",
+          "name": "auto_name__40"
+        }
+      ],
+      "legend": "Health"
     }
   ],
+  "enableSteps": true,
   "show": {
     "identifier": "auto_name__5",
     "operator": "defined"
   },
+  "steps": [
+    "page.linear-health-illness",
+    "page.linear-health-accidents",
+    "page.linear-health-hospital",
+    "page.linear-health-appointments",
+    "page.linear-health-next"
+  ],
+  "stepsHeading": "Health",
   "url": "linear-health"
 }

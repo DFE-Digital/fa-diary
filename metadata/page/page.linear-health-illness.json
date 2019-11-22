@@ -1,0 +1,18 @@
+{
+  "_id": "page.linear-health-illness",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.linear-health-illness--textarea.auto_name__41",
+      "_type": "textarea",
+      "label": "Illnesses",
+      "name": "auto_name__41"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__32",
+    "operator": "defined"
+  },
+  "url": "linear-health-illness"
+}
