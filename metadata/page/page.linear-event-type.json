@@ -96,9 +96,7 @@
     "page.linear-birth-family",
     "page.linear-social-care-pros",
     "page.linear-serious-incident",
-    "page.linear-other",
-    "page.linear-check",
-    "page.linear-done"
+    "page.linear-other"
   ],
   "url": "linear-event-type"
 }

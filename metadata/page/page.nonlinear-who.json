@@ -1,6 +1,46 @@
 {
   "_id": "page.nonlinear-who",
   "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.nonlinear-who--radios.auto_name__58",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.nonlinear-who--radios.auto_name__58--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Paul",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.nonlinear-who--radios.auto_name__58--radio.auto_value__4--2",
+          "_type": "radio",
+          "label": "Sarah",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.nonlinear-who--radios.auto_name__58--radio.auto_value__4--3",
+          "_type": "radio",
+          "label": "Yourself (the foster parent)",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.nonlinear-who--radios.auto_name__58--radio.auto_value__4--4",
+          "_type": "radio",
+          "label": "Paul's social worker (Andrew)",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.nonlinear-who--radios.auto_name__58--radio.auto_value__4--5",
+          "_type": "radio",
+          "label": "Sarah's social worker (Martha)",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "Who do you wish to write a note about?",
+      "name": "auto_name__58"
+    }
+  ],
   "enableSteps": true,
   "heading": "Make a note about a person",
   "show": {
