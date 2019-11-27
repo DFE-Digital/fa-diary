@@ -6,7 +6,7 @@
     {
       "_id": "page.linear-behaviour-things--textarea.auto_name__19",
       "_type": "textarea",
-      "hint": "Thinking of an example, can you describe.\r\n\r\n* What happened?\r\n* Did anything come before it?\r\n* What did Paul say or do?",
+      "hint": "Thinking of an example, can you describe.\r\n\r\n* What happened?\r\n* Did anything come before it?\r\n* What did your child say or do?",
       "label": "Behaviour and mood - things that help",
       "name": "auto_name__19"
     }

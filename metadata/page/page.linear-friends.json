@@ -2,7 +2,7 @@
   "_id": "page.linear-friends",
   "_type": "page.form",
   "actionType": "saveContinue",
-  "body": "Make a note about something to do with Paul’s friends.\r\n\r\nThis might include information on:\r\n\r\n* a new friend Paul has met\r\n* a friendship that’s going well for Paul\r\n* something that’s not going well – an argument, a fight, or\r\nsomething else\r\n* something that is worrying you about the friendship",
+  "body": "Make a note about something to do with your child’s friends.\r\n\r\nThis might include information on:\r\n\r\n* a new friend your child has met\r\n* a friendship that’s going well for your child\r\n* something that’s not going well – an argument, a fight, or\r\nsomething else\r\n* something that is worrying you about the friendship",
   "components": [
     {
       "_id": "page.linear-friends--textarea.auto_name__33",
@@ -19,7 +19,7 @@
     {
       "_id": "page.linear-friends--textarea.auto_name__35",
       "_type": "textarea",
-      "label": "What does Paul think or say about this?",
+      "label": "What does your child think or say about this?",
       "name": "auto_name__35"
     },
     {

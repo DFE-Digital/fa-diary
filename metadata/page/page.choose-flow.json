@@ -13,7 +13,7 @@
           "$option": true,
           "_id": "page.choose-flow--radios.auto_name__31--radio.auto_value__6",
           "_type": "radio",
-          "label": "A - Linear Flow",
+          "label": "A. Linear Flow",
           "value": "auto_value__6"
         },
         {
@@ -22,7 +22,7 @@
           "$option": true,
           "_id": "page.choose-flow--radios.auto_name__31--radio.auto_value__7",
           "_type": "radio",
-          "label": "B - all on one page",
+          "label": "B. All on one page",
           "value": "auto_value__7"
         }
       ],

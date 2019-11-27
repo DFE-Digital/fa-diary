@@ -7,7 +7,7 @@
     {
       "_id": "page.linear-school-incidents--textarea.auto_name__28",
       "_type": "textarea",
-      "label": "Describe the incident or problem to do with Paul's school.",
+      "label": "Describe the incident or problem to do with your child's school.",
       "name": "auto_name__28"
     },
     {
@@ -20,7 +20,7 @@
     {
       "_id": "page.linear-school-incidents--textarea.auto_name__29",
       "_type": "textarea",
-      "label": "What does Paul think about the incident or problem?",
+      "label": "What does your child think about the incident or problem?",
       "name": "auto_name__29"
     },
     {
