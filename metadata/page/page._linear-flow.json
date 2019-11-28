@@ -9,22 +9,22 @@
       "hint": "Who do you want to make a note about?",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page._linear-flow--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
-          "label": "Paul",
+          "label": "Your child",
           "value": "auto_value__1"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page._linear-flow--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
-          "label": "Sarah",
-          "value": "auto_value__2"
-        },
-        {
-          "_id": "page._linear-flow--radios.auto_name__1--radio.auto_value__3",
-          "_type": "radio",
           "label": "Myself (the foster parent)",
-          "value": "auto_value__3"
+          "value": "auto_value__2"
         }
       ],
       "legend": "Who do you wish to make a note about?",
@@ -37,7 +37,6 @@
     "operator": "is",
     "value": "auto_value__6"
   },
-  "showSteps": true,
   "steps": [
     "page.linear-event-type"
   ],

@@ -6,7 +6,7 @@
     {
       "_id": "page.linera--2--textarea.auto_name__20",
       "_type": "textarea",
-      "label": "What is worrying you about Paul’s behaviour?",
+      "label": "What is worrying you about your child's behaviour?",
       "name": "auto_name__20"
     },
     {
@@ -24,7 +24,7 @@
     {
       "_id": "page.linera--2--textarea.auto_name__23",
       "_type": "textarea",
-      "label": "What help do you or Paul need?",
+      "label": "What help do you or your child need?",
       "name": "auto_name__23"
     }
   ],

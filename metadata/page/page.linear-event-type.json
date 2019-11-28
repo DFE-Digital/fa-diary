@@ -79,7 +79,7 @@
           "name": "auto_name__11"
         }
       ],
-      "legend": "Make a note about Paul",
+      "legend": "Make a note about your child",
       "validation": {
         "required": true
       }

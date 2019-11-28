@@ -14,40 +14,58 @@
       "_type": "radios",
       "items": [
         {
-          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4",
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__1",
           "_type": "radio",
-          "label": "James' home",
-          "value": "auto_value__4"
+          "label": "Your home",
+          "value": "auto_value__1"
         },
         {
-          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4--2",
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__2",
           "_type": "radio",
           "label": "School",
-          "value": "auto_value__4"
+          "value": "auto_value__2"
         },
         {
-          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4--3",
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__3",
           "_type": "radio",
-          "label": "After school care",
-          "value": "auto_value__4"
+          "label": "After school",
+          "value": "auto_value__3"
         },
         {
-          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4--4",
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4",
           "_type": "radio",
-          "label": "Missing",
+          "label": "Gone missing",
           "value": "auto_value__4"
         },
         {
-          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4--5",
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__5",
           "_type": "radio",
-          "label": "Swimming pool",
-          "value": "auto_value__4"
+          "label": "Sport",
+          "value": "auto_value__5"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.nonlinear-note--radios.auto_name__52--radio.auto_value__4--6",
           "_type": "radio",
-          "label": "Steven's (friend) house",
-          "value": "auto_value__4"
+          "label": "Friend's house",
+          "value": "auto_value__6"
         }
       ],
       "legend": "At the following location",
@@ -56,7 +74,7 @@
     {
       "_id": "page.nonlinear-note--textarea.auto_name__53",
       "_type": "textarea",
-      "label": "Factual description",
+      "label": "Describe what happened?",
       "name": "auto_name__53"
     },
     {
@@ -68,7 +86,7 @@
     {
       "_id": "page.nonlinear-note--textarea.auto_name__55",
       "_type": "textarea",
-      "label": "What did they say?",
+      "label": "What did your child say?",
       "name": "auto_name__55"
     },
     {
@@ -84,6 +102,6 @@
       "name": "auto_name__57"
     }
   ],
-  "heading": "Make a note about Sarah",
+  "heading": "Make a note about your child",
   "url": "nonlinear-note"
 }

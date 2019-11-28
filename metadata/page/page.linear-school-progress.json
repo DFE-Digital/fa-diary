@@ -6,13 +6,13 @@
     {
       "_id": "page.linear-school-progress--textarea.auto_name__25",
       "_type": "textarea",
-      "label": "Make a note about Paul’s progress or an achievement at school?",
+      "label": "Make a note about your child's progress or an achievement at school?",
       "name": "auto_name__25"
     },
     {
       "_id": "page.linear-school-progress--textarea.auto_name__26",
       "_type": "textarea",
-      "label": "How does Paul feel about this?",
+      "label": "How does your child feel about this?",
       "name": "auto_name__26"
     }
   ],

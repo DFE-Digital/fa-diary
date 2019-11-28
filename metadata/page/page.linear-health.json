@@ -6,7 +6,7 @@
     {
       "_id": "page.linear-health--checkboxes",
       "_type": "checkboxes",
-      "hint": "Make a note about Paul's health. This might include information on:",
+      "hint": "Make a note about your child's health. This might include information on:",
       "items": [
         {
           "_id": "page.linear-health--checkboxes--checkbox.auto_name__32",
